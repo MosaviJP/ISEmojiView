@@ -5,6 +5,8 @@
 //  Created by jackma on 2025/10/24.
 //
 
+import UIKit
+
 extension EmojiPopView {
 
     internal func move(emojiFrame: CGRect, animation: Bool = true) {
