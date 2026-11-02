@@ -32,7 +32,7 @@ public enum Category: Equatable {
         case .foodAndDrink:
             return "Food & Drink"
         case .activity:
-            return "Activity"
+            return "Activities"
         case .travelAndPlaces:
             return "Travel & Places"
         case .objects:
